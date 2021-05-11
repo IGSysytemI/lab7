@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8739E203-7383-4073-8199-2DD140A5D930}|Default">
+  <MonoDevelop.Ide.ItemProperties.Catalog.DAL.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.Tests/BaseRepositoryUnitTests.cs">
+    <Files>
+      <File FileName="DAL.Tests/BaseRepositoryUnitTests.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab-7" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="DAL.Tests" expanded="True" selected="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab-7" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="DAL.Tests" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

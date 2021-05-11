@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\bin\Debug\netcoreapp1.1\DAL.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfo.cs
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.pdb
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL\obj\Debug\netcoreapp1.1\DAL.csproj.CoreCompileInputs.cache

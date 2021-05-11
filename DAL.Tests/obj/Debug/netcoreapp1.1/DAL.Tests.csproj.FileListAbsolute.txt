@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.AssemblyInfo.cs
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.Tests.deps.json
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.Tests.runtimeconfig.json
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.Tests.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.Tests.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.dll
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.csproj.CopyComplete
+C:\Users\DELL\Desktop\OSBB\OSBB\DAL.Tests\obj\Debug\netcoreapp1.1\DAL.Tests.genruntimeconfig.cache
